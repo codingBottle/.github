@@ -1,6 +1,6 @@
 <img src="https://github.com/codingBottle/.github/assets/63100352/ff42702d-0b2a-417e-990b-35d059ef515d" alt="banner" />
 
-# 코딩보틀 - 끊임없이 흘러가는 우리, Developer X Designer
+<h1 style="color: black"> 코딩보틀 - 끊임없이 흘러가는 우리, Developer X Designer</h1>
 
 <div align="center">
   
@@ -24,7 +24,7 @@
 
 <summary>
 
-<h3>
+<h3 style="color: black">
 운영진
 </h3>
 
@@ -40,7 +40,7 @@
 
 <summary>
 
-<h3>
+<h3 style="color: black">
 멤버
 </h3>
 
