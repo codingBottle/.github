@@ -1,4 +1,4 @@
-# coding bottle
+<img src="https://github.com/codingBottle/.github/assets/63100352/ff42702d-0b2a-417e-990b-35d059ef515d" alt="banner" width="1280" />
 
 <div align="center">
   
@@ -6,7 +6,7 @@
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 <a href="mailto:codingbottleskhu@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -16,14 +16,20 @@
   <a href="https://www.youtube.com/channel/UC6LdMAl1gc2eW6d1bPEFOSw">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
-</div>
+</div> -->
 
-<div>
+<details>
 
-## 운영진
+<summary>
+
+<h3>
+운영진
+</h3>
+
+</summary>
 
 | <img src="https://avatars.githubusercontent.com/u/72500673?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/114901417?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/57248278?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/113246619?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/63100352?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/102283844?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/103248892?v=4" width="150px" /> |
-| :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
-|                       [김하은](https://github.com/hanni66)                       |                      [박신영](https://github.com/ParkSY0919)                      |                       [조성우](https://github.com/vact19)                        |                      [최기웅](https://github.com/giwoong01)                      |                     [한슬희](https://github.com/hanseulhee)                      |                     [이은지](https://github.com/Lee2Eunji)                      |                     [왕서희](https://github.com/WangSeohee)                      |
+| :------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
+|                       [김하은](https://github.com/hanni66)                       |                      [박신영](https://github.com/ParkSY0919)                      |                       [조성우](https://github.com/vact19)                        |                      [최기웅](https://github.com/giwoong01)                       |                     [한슬희](https://github.com/hanseulhee)                      |                      [이은지](https://github.com/Lee2Eunji)                       |                      [왕서희](https://github.com/WangSeohee)                      |
 
-</div>
+</details>
